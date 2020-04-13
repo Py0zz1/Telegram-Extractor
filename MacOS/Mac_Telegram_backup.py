@@ -4,7 +4,7 @@ import os,sys
 import sqlite3
 loop = asyncio.get_event_loop()
 
-session_name = "GMD"
+session_name = "py0zz1"
 session_file = "{}.session".format(session_name)
 output_dir = "Telegram_Backup"
 auth_file = "mac_auth.dat"
